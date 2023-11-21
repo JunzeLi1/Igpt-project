@@ -1,12 +1,9 @@
-# README for ImageGPT Linear Probing Project
+# README for Final Project
 
 ## How to Run Experiments
 
-1. Clone or download the project repository.
-2. Ensure that Python and the necessary libraries (`transformers`, `datasets`, `torch`, `numpy`, `matplotlib`, `sklearn`, etc.) are installed. You can install them using pip: `pip install transformers datasets torch numpy matplotlib sklearn`.
-3. Run the Jupyter Notebook provided (`Final-Project.ipynb`) in a Jupyter environment (like Jupyter Lab or Google Colab).
-4. The notebook is self-contained and will guide you through the process of loading datasets, preprocessing, model training, evaluation, and visualization.
-5. Follow the instructions in each cell of the notebook to execute the code segments sequentially.
+1. Run the Jupyter Notebook provided (`Final-Project.ipynb`) in a Jupyter environment (like Jupyter Lab or Google Colab).
+2. The notebook is self-contained and will guide you through the process of loading datasets, preprocessing, model training, evaluation, and visualization.
 
 ## Code Files Description
 

@@ -17,9 +17,9 @@
 
 - The code segments for loading the pretrained ImageGPT model and feature extraction from the ImageGPT model are adapted from the above sources. Modifications include adjustments for batch processing, feature extraction specifics, and integration with the rest of the project pipeline.
 
-### c) Original Student Code
+### c) Original Code
 
-- The remaining parts of the code, including training logistic regression, k-Nearest Neighbors, and Multi-Layer Perceptron classifiers, as well as the application of t-Distributed Stochastic Neighbor Embedding (t-SNE) for dimensionality reduction, are the student's original work.
+- The remaining parts of the code, including training logistic regression, k-Nearest Neighbors, and Multi-Layer Perceptron classifiers, as well as the application of t-Distributed Stochastic Neighbor Embedding (t-SNE) for dimensionality reduction, are the my original work.
 
 ## Dataset Description
 
